@@ -1,0 +1,50 @@
+2023-02-15 16:18:18 *NORMAL*     Started on Windows 10.0.0.22621 x64. Driver status: 0xC0000225
+2023-02-15 16:18:31 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 28324, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-02-15 16:18:31 *CRITICAL*   Injecting image 'C:\Users\vxvx\Desktop\Projects\Hush\build\Hush.dll'
+2023-02-15 16:18:31 *ERROR*      Invalid failure status: 0x0
+2023-02-15 16:18:31 *ERROR*      Failed to inject image 'C:\Users\vxvx\Desktop\Projects\Hush\build\Hush.dll'.
+Error code 0xC0000135
+
+2023-02-15 16:20:25 *NORMAL*     Started on Windows 10.0.0.22621 x64. Driver status: 0xC0000225
+2023-02-15 16:20:33 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 28428, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-02-15 16:20:33 *CRITICAL*   Injecting image 'C:\Users\vxvx\Desktop\Projects\Hush\build\Hush.dll'
+2023-02-15 16:20:33 *ERROR*      Invalid failure status: 0x0
+2023-02-15 16:20:33 *ERROR*      Failed to inject image 'C:\Users\vxvx\Desktop\Projects\Hush\build\Hush.dll'.
+Error code 0xC0000135
+
+2023-02-15 16:32:47 *NORMAL*     Started on Windows 10.0.0.22621 x64. Driver status: 0xC0000225
+2023-02-15 16:33:01 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 3956, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-02-15 16:33:01 *CRITICAL*   Injecting image 'C:\Users\vxvx\Desktop\internal-bhop-main\Release\sexy internal.dll'
+2023-02-15 16:33:01 *ERROR*      Invalid failure status: 0x0
+2023-02-15 16:33:01 *ERROR*      Failed to inject image 'C:\Users\vxvx\Desktop\internal-bhop-main\Release\sexy internal.dll'.
+Error code 0xC0000135
+2023-02-15 16:33:26 *CRITICAL*   Injection initiated. Mode: 1, process type: 0, pid: 3956, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-02-15 16:33:26 *CRITICAL*   Injecting image 'C:\Users\vxvx\Desktop\internal-bhop-main\Release\sexy internal.dll'
+2023-02-15 16:33:26 *ERROR*      Failed to inject image using manual map, status: 0xC0000034
+2023-02-15 16:33:26 *ERROR*      Failed to inject image 'C:\Users\vxvx\Desktop\internal-bhop-main\Release\sexy internal.dll'.
+Error code 0xC0000034
+2023-02-15 16:33:29 *CRITICAL*   Injection initiated. Mode: 1, process type: 0, pid: 3956, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-02-15 16:33:29 *CRITICAL*   Injecting image 'C:\Users\vxvx\Desktop\internal-bhop-main\Release\sexy internal.dll'
+2023-02-15 16:33:29 *ERROR*      Failed to inject image using manual map, status: 0xC0000034
+2023-02-15 16:33:29 *ERROR*      Failed to inject image 'C:\Users\vxvx\Desktop\internal-bhop-main\Release\sexy internal.dll'.
+Error code 0xC0000034
+2023-02-15 16:33:40 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 3956, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 1, init routine: '', init arg: ''
+2023-02-15 16:33:40 *CRITICAL*   Injecting image 'C:\Users\vxvx\Desktop\internal-bhop-main\Release\sexy internal.dll'
+2023-02-15 16:33:40 *NORMAL*     Searching for thread to hijack
+2023-02-15 16:33:40 *ERROR*      Invalid failure status: 0x0
+2023-02-15 16:33:40 *ERROR*      Failed to inject image 'C:\Users\vxvx\Desktop\internal-bhop-main\Release\sexy internal.dll'.
+Error code 0xC0000135
+
+2023-02-15 17:00:33 *NORMAL*     Started on Windows 10.0.0.22621 x64. Driver status: 0xC0000225
+2023-02-15 17:00:36 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 30308, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 1, init routine: '', init arg: ''
+2023-02-15 17:00:36 *CRITICAL*   Injecting image 'C:\Users\vxvx\Desktop\internal-bhop-main\Release\sexy internal.dll'
+2023-02-15 17:00:36 *NORMAL*     Searching for thread to hijack
+2023-02-15 17:00:36 *ERROR*      Invalid failure status: 0x0
+2023-02-15 17:00:36 *ERROR*      Failed to inject image 'C:\Users\vxvx\Desktop\internal-bhop-main\Release\sexy internal.dll'.
+Error code 0xC0000135
+
+2023-02-15 17:01:45 *NORMAL*     Started on Windows 10.0.0.22621 x64. Driver status: 0xC0000225
+2023-02-15 17:02:07 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 25708, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 1, init routine: '', init arg: ''
+2023-02-15 17:02:07 *CRITICAL*   Injecting image 'C:\Users\vxvx\Desktop\Projects\Hush\build\Hush.dll'
+2023-02-15 17:02:07 *NORMAL*     Searching for thread to hijack
+
